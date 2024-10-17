@@ -46,7 +46,9 @@ nav ul li a.current {
 nav ul li a:hover{
 	border-bottom: 2px solid;
 }
-
+.Intro {
+    margin-top: 2em;
+}
 img {
     border: 4px grey solid;
     border-radius: 100%;
@@ -77,6 +79,7 @@ h3 {
   }
 
 .projects {
+    margin-top: 2em;
     margin-bottom: 0px;
 } 
 
